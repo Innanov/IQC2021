@@ -7,4 +7,4 @@
 - [ ] A good learning experience to start off with quantum computing!
 
 
-![My SCORE](https://github.com/Innanov/ibm-quantum-challenge-2021/blob/main/my%20work/myscore.PNG)
+![My SCORE](https://github.com/Innanov/IQC2021/blob/main/myscore.PNG)
